@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @royalkingzeher
 - 👀 I’m interested in coding and reading .
-- 🌱 I’m currently in B.Tech Computer Science in specialization Devops+CCVT(3nd Year). 
+- 🌱 I’m currently pursuing B.Tech Computer Science in specialization Devops+CCVT(3nd Year). 
 - 📫 Yo can reach me through whatsapp on 7055458296
 
 <!---
