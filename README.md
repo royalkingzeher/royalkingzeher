@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @royalkingzeher
-- 👀 I’m interested in coding and reading .
-- 🌱 I'm a DevOps and Web Dev Enthusiast, a pre-final year student at University of Petroleum and Energy Studies currenly pursuing BTech CSE in DevOps
-- 📫 Yo can reach me through whatsapp on 7055458296
-- 
+- 👋 Hi, I’m Raghav Mittal .
+-  I'm a 3rd Year student pursuing B.Tech Computer Science specialization in DevOps Student at UPES.
+- 👀 I’m interested in coding,reading and singing .
+- 🌱 I'm a DevOps and Web Dev Enthusiast .
+- 📫 You can reach me through whatsapp on 7055458296 .  
 
 <!---
 royalkingzeher/royalkingzeher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
