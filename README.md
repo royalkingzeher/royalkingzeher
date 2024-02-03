@@ -5,7 +5,7 @@ Versatile web developer with expertise in DevOps tools and practices, providing 
 
 I'm currently learning React.js, DSA and MongoDB. 
 
-Ask me about Jenkins, Javascript, HTML , Bash scripting , Docker , Kubernetes, TerraForm , Ansible , Java , Python , AWS, C, HTMl, Maven, Nexus, MySQL, PostgreSQL.
+Ask me about Jenkins, Javascript, HTML , Bash scripting , Docker , Kubernetes, TerraForm , Ansible , Java , Python , AWS, C, HTML, Maven, Nexus, MySQL, PostgreSQL.
 
 You can contact me through raghavmittal26113@gmail.com .
 
