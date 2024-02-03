@@ -9,4 +9,4 @@ Ask me about Jenkins, Javascript, HTML , Bash scripting , Docker , Kubernetes, T
 
 You can contact me through raghavmittal26113@gmail.com .
 
-you can also connect me through Linkedin https://www.linkedin.com/in/raghav-mittal-051012234/ .
+You can also connect me through Linkedin https://www.linkedin.com/in/raghav-mittal-051012234/ .
