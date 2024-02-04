@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royalkingzeher&show_icons=true&theme=synthwave&title_color=5be15d&bg_color=f0ebeb&locale=en" alt="royalkingzeher" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royalkingzeher&" alt="royalkingzeher" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royalkingzeher&theme=default" alt="royalkingzeher" /></p>
