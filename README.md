@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghav Mittal</h1>
 <h3 align="center">Versatile web developer with expertise in DevOps tools and practices, providing an exceptional combination of technical expertise and advanced research skills.</h3>
 
-<img align ="right" alt ="coding" width ="400" src="https://github.com/royalkingzeher/royalkingzeher/assets/111191629/255b1757-7b75-47bb-a4e9-1a8ff0d85d03.gif">
+<img align ="right" alt ="coding" width ="400" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royalkingzeher&label=Profile%20views&color=0e75b6&style=flat" alt="royalkingzeher" /> </p>
 
