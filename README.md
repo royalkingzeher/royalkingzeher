@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royalkingzeher&label=Profile%20views&color=0e75b6&style=flat" alt="royalkingzeher" /> </p>
 
-- 🌱 I’m currently learning **React.js, DSA and MongoDB.**
+- 🌱 I’m currently learning **React.js, DSA and MongoDB,Node.js**
 
 - 💬 Ask me about **Jenkins, Javascript, HTML , Bash scripting , Docker , Kubernetes, TerraForm , Ansible , Java , Python , AWS, C, HTML, Maven, Nexus, MySQL, PostgreSQL.**
 
